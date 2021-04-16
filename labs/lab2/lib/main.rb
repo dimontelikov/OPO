@@ -18,7 +18,8 @@ class Main
     when 3
       puts "Meam: #{result.search_mean}"
     when 4
-      puts "Сorrected sample variance: #{result.search_corrected_sample_variance}"
+      puts "Сorrected sample variance:
+      #{result.search_corrected_sample_variance}"
     end
   end
 
